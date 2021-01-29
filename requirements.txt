@@ -1,0 +1,20 @@
+cycler==0.10.0
+joblib @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/a9/1f/3c/069e7c53177acd4faa5b8f5a1b2498b16b7f8bf977bb770710c597fac7/joblib-1.0.0-py3-none-any.whl
+kiwisolver==1.3.1
+matplotlib==3.3.4
+numpy==1.19.5
+pandas @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/f0/93/c4/3ffe857c121ed9139ee761d6b9b508178293ffeba78964d2f7dd37308c/pandas-1.2.1.tar.gz
+Pillow @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/70/0e/82/afc77ad2f5b4f399f8b29128189c7dbe222bc511fb572fa8a35febd4e9/Pillow-8.1.0.tar.gz
+pyparsing==2.4.7
+PySide2==5.15.2
+PySimpleGUI==4.34.0
+PySimpleGUIQt==0.35.0
+PySimpleGUIWx @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/89/23/bd/e8feb07f84573dc986c129ce506dae89cfdfc447a40ddf934849fa3d6a/PySimpleGUIWx-0.17.1-py3-none-any.whl
+python-dateutil @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/93/67/cf/49f56d9e954addcfc50e5ffc9faee013c2eb00c6d77d56c6a22cb33b54/python_dateutil-2.8.1-py2.py3-none-any.whl
+pytz @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/ff/e1/18/87d7d045f14172d7b610aee61619f3a4dcf140d6c4b171b94aedfc8f44/pytz-2020.5-py2.py3-none-any.whl
+scikit-learn==0.24.1
+scipy==1.6.0
+shiboken2==5.15.2
+six @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/dd/1c/65/ad0dea11136f5a869f072890a0eea955aa8fc35b90c85c55249fd3abfe/six-1.15.0-py2.py3-none-any.whl
+threadpoolctl @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/67/60/3b/3c54fb2d89536f49ad17f002eefcf0abd98f373c5f1804c5298a815c0a/threadpoolctl-2.1.0-py3-none-any.whl
+wxPython @ file:///Users/sergeybabayan/Library/Caches/pypoetry/artifacts/d7/a7/92/9567257647fc97178a0be8fc5a99ab17894bd32ce2c79f7c161f4cbf45/wxPython-4.1.1.tar.gz
